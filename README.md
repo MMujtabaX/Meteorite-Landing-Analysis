@@ -1,4 +1,4 @@
-# 🚀 NASA Meteorite Landings Project
+# 🚀🌠 NASA Meteorite Landings Project
 
 This project analyzes real-world meteorite landing data collected by NASA, using powerful Python libraries such as **pandas**, **matplotlib**, **seaborn**, and **folium**. The goal is to extract insights and visualize patterns in meteorite mass, year of fall, class types, and global landing locations.
 
@@ -71,22 +71,6 @@ This dataset is publicly available at NASA’s Open Data Portal:
 2. Open `meteorite_landings.ipynb` in Jupyter Notebook
 3. Ensure `meteorite_landings.csv` is in the same directory
 4. Run all cells to generate the plots and map
-
----
-
-## 💡 Future Ideas
-
-- Add clustering of meteorite landings by region
-- Predict meteorite size or type using machine learning
-- Animate yearly landings on the map using `folium.plugins.TimestampedGeoJson`
-
----
-
-## 📬 Contact
-
-**Author:** Your Name Here  
-**Email:** your.email@example.com  
-**GitHub:** [yourusername](https://github.com/yourusername)
 
 ---
 
