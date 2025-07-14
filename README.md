@@ -38,12 +38,13 @@ This project analyzes real-world meteorite landing data collected by NASA, using
 ![Landings Per Year](landings_per_year.png)
 
 ### Mass Distribution  
-![Mass Histogram](https://via.placeholder.com/800x400.png?text=Mass+Distribution+Under+50kg)
+![Mass Distribution](mass_distribution.png)
 
 ### Top Meteorite Classes  
-![Top Classes](https://via.placeholder.com/800x400.png?text=Top+10+Meteorite+Classes)
+![Top Classes](top_classes.png)
 
 ### Global Landing Map  
+![Map](map.png)
 > An interactive Folium map displays meteorite landings across the globe.  
 > (Live map in the notebook)
 
