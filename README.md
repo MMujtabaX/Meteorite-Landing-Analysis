@@ -1,4 +1,4 @@
-# 🚀🌠 NASA Meteorite Landings Project
+# 🌠 NASA Meteorite Landings Project
 
 This project analyzes real-world meteorite landing data collected by NASA, using powerful Python libraries such as **pandas**, **matplotlib**, **seaborn**, and **folium**. The goal is to extract insights and visualize patterns in meteorite mass, year of fall, class types, and global landing locations.
 
