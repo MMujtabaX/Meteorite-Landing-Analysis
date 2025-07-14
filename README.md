@@ -35,7 +35,7 @@ This project analyzes real-world meteorite landing data collected by NASA, using
 ## 📷 Visual Previews
 
 ### Meteorite Landings Over Time  
-![Time Plot](https://via.placeholder.com/800x400.png?text=Meteorite+Landings+Over+Time)
+![Landings Per Year](landings_per_year.png)
 
 ### Mass Distribution  
 ![Mass Histogram](https://via.placeholder.com/800x400.png?text=Mass+Distribution+Under+50kg)
